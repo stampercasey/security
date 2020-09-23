@@ -1,0 +1,13 @@
+1. What is the average number of trials it took you to find a particular pre-image based on
+15 experiments where n=2?
+
+34487.8
+
+2. What is the average number of trials it took you to find a collision based on 15
+experiments where n=2?
+
+319.7
+
+3. Is it easier to find a collision or find a pre-image using brute force?
+
+Collision
